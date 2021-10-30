@@ -110,8 +110,7 @@ brews:
     # Default is 'bin.install "program"'.
     install: |
       bin.install "golang-helloworld"
-      ...
-
+ 
     # Custom post_install script for brew.
     # Could be used to do any additional work after the "install" script
     # Default is empty.
